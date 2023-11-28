@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP 14s DQ5053TU 6R9M6PA\\1.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP 14s DQ5053TU 6R9M6PA\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP 14s DQ5053TU 6R9M6PA\\2.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP 14s DQ5053TU 6R9M6PA\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP 14s DQ5053TU 6R9M6PA\\3.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP 14s DQ5053TU 6R9M6PA\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP 14s DQ5053TU 6R9M6PA\\4.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP 14s DQ5053TU 6R9M6PA\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP 14s DQ5053TU 6R9M6PA\\5.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP 14s DQ5053TU 6R9M6PA\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP 14s DQ5053TU 6R9M6PA\\6.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP 14s DQ5053TU 6R9M6PA\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP 14s DQ5053TU 6R9M6PA\\main.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP 14s DQ5053TU 6R9M6PA\\main.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP ProBook 450 G8 614K3PA\\1.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP ProBook 450 G8 614K3PA\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP ProBook 450 G8 614K3PA\\2.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP ProBook 450 G8 614K3PA\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP ProBook 450 G8 614K3PA\\3.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP ProBook 450 G8 614K3PA\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP ProBook 450 G8 614K3PA\\4.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP ProBook 450 G8 614K3PA\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP ProBook 450 G8 614K3PA\\5.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP ProBook 450 G8 614K3PA\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP ProBook 450 G8 614K3PA\\main.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP ProBook 450 G8 614K3PA\\main.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP Spectre x360 14 ef0030TU 6K773PA\\1.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP Spectre x360 14 ef0030TU 6K773PA\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP Spectre x360 14 ef0030TU 6K773PA\\2.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP Spectre x360 14 ef0030TU 6K773PA\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP Spectre x360 14 ef0030TU 6K773PA\\3.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP Spectre x360 14 ef0030TU 6K773PA\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP Spectre x360 14 ef0030TU 6K773PA\\4.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP Spectre x360 14 ef0030TU 6K773PA\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP Spectre x360 14 ef0030TU 6K773PA\\5.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP Spectre x360 14 ef0030TU 6K773PA\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP Spectre x360 14 ef0030TU 6K773PA\\6.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP Spectre x360 14 ef0030TU 6K773PA\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop HP Spectre x360 14 ef0030TU 6K773PA\\main.png",
+      "PackagePath": "staticwebassets\\img\\Laptop HP Spectre x360 14 ef0030TU 6K773PA\\main.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop gaming Dell Alienware M15 R6 P109F001CBL\\1.png",
+      "PackagePath": "staticwebassets\\img\\Laptop gaming Dell Alienware M15 R6 P109F001CBL\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop gaming Dell Alienware M15 R6 P109F001CBL\\2.png",
+      "PackagePath": "staticwebassets\\img\\Laptop gaming Dell Alienware M15 R6 P109F001CBL\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop gaming Dell Alienware M15 R6 P109F001CBL\\3.png",
+      "PackagePath": "staticwebassets\\img\\Laptop gaming Dell Alienware M15 R6 P109F001CBL\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop gaming Dell Alienware M15 R6 P109F001CBL\\4.png",
+      "PackagePath": "staticwebassets\\img\\Laptop gaming Dell Alienware M15 R6 P109F001CBL\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop gaming Dell Alienware M15 R6 P109F001CBL\\5.png",
+      "PackagePath": "staticwebassets\\img\\Laptop gaming Dell Alienware M15 R6 P109F001CBL\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop gaming Dell Alienware M15 R6 P109F001CBL\\6.png",
+      "PackagePath": "staticwebassets\\img\\Laptop gaming Dell Alienware M15 R6 P109F001CBL\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop gaming Dell Alienware M15 R6 P109F001CBL\\main.png",
+      "PackagePath": "staticwebassets\\img\\Laptop gaming Dell Alienware M15 R6 P109F001CBL\\main.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\1.png",
+      "PackagePath": "staticwebassets\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\2.png",
+      "PackagePath": "staticwebassets\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\3.png",
+      "PackagePath": "staticwebassets\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\4.png",
+      "PackagePath": "staticwebassets\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\5.png",
+      "PackagePath": "staticwebassets\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\6.png",
+      "PackagePath": "staticwebassets\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\7.png",
+      "PackagePath": "staticwebassets\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\8.png",
+      "PackagePath": "staticwebassets\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\9.png",
+      "PackagePath": "staticwebassets\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\main.png",
+      "PackagePath": "staticwebassets\\img\\Laptop gaming Dell G15 5530 i7H165W11GR4050\\main.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Samsung Galaxy S23 5G Ultra 1TB\\1.png",
+      "PackagePath": "staticwebassets\\img\\Samsung Galaxy S23 5G Ultra 1TB\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Samsung Galaxy S23 5G Ultra 1TB\\2.png",
+      "PackagePath": "staticwebassets\\img\\Samsung Galaxy S23 5G Ultra 1TB\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Samsung Galaxy S23 5G Ultra 1TB\\3.png",
+      "PackagePath": "staticwebassets\\img\\Samsung Galaxy S23 5G Ultra 1TB\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Samsung Galaxy S23 5G Ultra 1TB\\4.png",
+      "PackagePath": "staticwebassets\\img\\Samsung Galaxy S23 5G Ultra 1TB\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Samsung Galaxy S23 5G Ultra 1TB\\5.png",
+      "PackagePath": "staticwebassets\\img\\Samsung Galaxy S23 5G Ultra 1TB\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Samsung Galaxy S23 5G Ultra 1TB\\main.png",
+      "PackagePath": "staticwebassets\\img\\Samsung Galaxy S23 5G Ultra 1TB\\main.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Samsung Galaxy Z Flip5 5G 256GB\\1.png",
+      "PackagePath": "staticwebassets\\img\\Samsung Galaxy Z Flip5 5G 256GB\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Samsung Galaxy Z Flip5 5G 256GB\\2.png",
+      "PackagePath": "staticwebassets\\img\\Samsung Galaxy Z Flip5 5G 256GB\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Samsung Galaxy Z Flip5 5G 256GB\\3.png",
+      "PackagePath": "staticwebassets\\img\\Samsung Galaxy Z Flip5 5G 256GB\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Samsung Galaxy Z Flip5 5G 256GB\\4.png",
+      "PackagePath": "staticwebassets\\img\\Samsung Galaxy Z Flip5 5G 256GB\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Samsung Galaxy Z Flip5 5G 256GB\\5.png",
+      "PackagePath": "staticwebassets\\img\\Samsung Galaxy Z Flip5 5G 256GB\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\Samsung Galaxy Z Flip5 5G 256GB\\main.png",
+      "PackagePath": "staticwebassets\\img\\Samsung Galaxy Z Flip5 5G 256GB\\main.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\hotdeal.png",
+      "PackagePath": "staticwebassets\\img\\hotdeal.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\product01.png",
+      "PackagePath": "staticwebassets\\img\\product01.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\product02.png",
+      "PackagePath": "staticwebassets\\img\\product02.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\product03.png",
+      "PackagePath": "staticwebassets\\img\\product03.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\product04.png",
+      "PackagePath": "staticwebassets\\img\\product04.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\product05.png",
+      "PackagePath": "staticwebassets\\img\\product05.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\product06.png",
+      "PackagePath": "staticwebassets\\img\\product06.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\product07.png",
+      "PackagePath": "staticwebassets\\img\\product07.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\product08.png",
+      "PackagePath": "staticwebassets\\img\\product08.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\product09.png",
+      "PackagePath": "staticwebassets\\img\\product09.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\shop01.png",
+      "PackagePath": "staticwebassets\\img\\shop01.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\shop02.png",
+      "PackagePath": "staticwebassets\\img\\shop02.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\img\\shop03.png",
+      "PackagePath": "staticwebassets\\img\\shop03.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\js\\jquery.zoom.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.zoom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\screenshot\\Checkout.png",
+      "PackagePath": "staticwebassets\\screenshot\\Checkout.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\screenshot\\Index.png",
+      "PackagePath": "staticwebassets\\screenshot\\Index.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\screenshot\\Product.png",
+      "PackagePath": "staticwebassets\\screenshot\\Product.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\screenshot\\Regular.png",
+      "PackagePath": "staticwebassets\\screenshot\\Regular.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\source\\repos\\ProjectPrn211\\ProjectPrn211\\wwwroot\\screenshot\\Store.png",
+      "PackagePath": "staticwebassets\\screenshot\\Store.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProjectPrn211.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ProjectPrn211.props",
+      "PackagePath": "build\\ProjectPrn211.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjectPrn211.props",
+      "PackagePath": "buildMultiTargeting\\ProjectPrn211.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProjectPrn211.props",
+      "PackagePath": "buildTransitive\\ProjectPrn211.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

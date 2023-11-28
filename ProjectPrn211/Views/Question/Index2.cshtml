@@ -1,0 +1,36 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using ProjectPrn211.Models
+
+<form id="filter" asp-controller="Question" asp-action="Check2" method="post">
+    <div>
+        Question 2 :
+        @ViewBag.Question.QuestionText
+
+        <table  border="0" onchange="change()">
+            <tr>
+                <td><input type="radio" name="q2" value="A" required /><label>A: @ViewBag.Question.A</label></td>
+            </tr>
+            <tr>
+                <td><input type="radio" name="q2" value="B" required /><label>B: @ViewBag.Question.B</label></td>
+            </tr>
+            <tr>
+                <td><input type="radio" name="q2" value="C" required /><label>C: @ViewBag.Question.C</label></td>
+            </tr>
+            <tr>
+                <td><input type="radio" name="q2" value="D" required /><label>D: @ViewBag.Question.D</label></td>
+            </tr>
+        </table>
+    </div>
+
+
+</form>
+<script>
+    function change() {
+        document.getElementById("filter").submit();
+    }
+</script>
